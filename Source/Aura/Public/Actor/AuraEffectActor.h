@@ -12,7 +12,7 @@ class UGameplayEffect;
 UENUM(BlueprintType)
 enum class EEffectApplicationPolicy
 {
-	ApplyOnOverlay,
+	ApplyOnOverlap,
 	ApplyOnEndOverlap,
 	DoNotApply
 };
